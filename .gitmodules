@@ -1,0 +1,3 @@
+[submodule "mbshop"]
+	path = mbshop
+	url = https://github.com/bsao17/mbshop_typescript.git
